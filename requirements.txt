@@ -1,0 +1,7 @@
+streamlit 
+fitz 
+python-docx 
+transformers 
+sentence-transformers 
+faiss-cpu 
+torch 
